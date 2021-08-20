@@ -136,12 +136,12 @@ selections:
     - audit_rules_unsuccessful_file_modification_openat
     - audit_rules_unsuccessful_file_modification_open_by_handle_at
     - audit_rules_session_events_btmp
-    - audit_rules_unsuccessful_file_modification_renameat
-    - audit_rules_unsuccessful_file_modification_renameat2
-    - audit_rules_unsuccessful_file_modification_rename
+    - audit_rules_file_deletion_events_renameat
+    - audit_rules_file_deletion_events_renameat2
+    - audit_rules_file_deletion_events_rename
     - audit_rules_unsuccessful_file_modification_truncate
-    - audit_rules_unsuccessful_file_modification_unlink
-    - audit_rules_unsuccessful_file_modification_unlinkat
+    - audit_rules_file_deletion_events_unlink
+    - audit_rules_file_deletion_events_unlinkat
     - audit_rules_usergroup_modification_group
     - audit_rules_usergroup_modification_gshadow
     - audit_rules_usergroup_modification_opasswd
