@@ -1,0 +1,6 @@
+dconf_db_up_to_date
+encrypt_partitions
+grub2_password
+grub2_uefi_password
+libreswan_approved_tunnels
+selinux_confinement_of_daemons

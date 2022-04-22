@@ -1,0 +1,10 @@
+account_unique_name
+accounts_password_all_shadowed
+ensure_gpgcheck_never_disabled
+gid_passwd_group_same
+install_hids
+rpm_verify_hashes
+rpm_verify_permissions
+rsyslog_files_groupownership
+rsyslog_files_ownership
+set_password_hashing_algorithm_libuserconf
